@@ -2,6 +2,7 @@
 
 
 https://www.youtube.com/watch?v=adG0vq5boL8
+https://github.com/DeekshithSN/cheatsheet/blob/master/installtion_guide_ubuntu.md
 
 
 https://www.youtube.com/watch?v=adG0vq5boL8
